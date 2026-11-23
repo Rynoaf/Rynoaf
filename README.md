@@ -55,3 +55,19 @@
 
 <p align="center">
   <img src="
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 👾 Pac-Man Contribution
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/github-contribution-grid-snake.svg" alt="Pacman" />
+</div>
