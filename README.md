@@ -21,8 +21,7 @@
 - 🎓 Mahasiswa S1 **Teknik Informatika** (Semester 1)
 - 🧠 Fokus mengasah logika pemrograman, algoritma, dan struktur data secara bertahap
 - 💻 Saat ini mendalami **C++ / Python** serta dasar **Web Development**
-- 🎯 Lebih suka bekerja di balik layar dan membiarkan hasil kode yang berbicara
-
+  
 ---
 
 ### 🛠️ Bahasa & Tools
